@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Omer Github Page</title>
+    <link>https://omers.github.io/docs/</link>
+    <description>Recent content in Docs on Omer Github Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jul 2022 14:37:22 +0300</lastBuildDate><atom:link href="https://omers.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Nlp Libraries</title>
+      <link>https://omers.github.io/docs/ai/python-nlp-libraries/</link>
+      <pubDate>Tue, 19 Jul 2022 14:37:22 +0300</pubDate>
+      
+      <guid>https://omers.github.io/docs/ai/python-nlp-libraries/</guid>
+      <description>Natural language processing (NLP) is a field that focuses on making natural human language usable by computer programs. NLTK, or Natural Language Toolkit, is a Python package that you can use for NLP.
+A lot of the data that you could be analyzing is unstructured data and contains human-readable text. Before you can analyze that data programmatically, you first need to preprocess it. In this tutorial, you’ll take your first look at the kinds of text preprocessing tasks you can do with NLTK so that you’ll be ready to apply them in future projects.</description>
+    </item>
+    
+    <item>
+      <title>Serverless Framework</title>
+      <link>https://omers.github.io/docs/serverless/serverless-framework/</link>
+      <pubDate>Tue, 19 Jul 2022 14:28:37 +0300</pubDate>
+      
+      <guid>https://omers.github.io/docs/serverless/serverless-framework/</guid>
+      <description>Serverless framework Main advantages: Keeps the &amp;ldquo;code&amp;rdquo; together with the infrastrucutre </description>
+    </item>
+    
+  </channel>
+</rss>
