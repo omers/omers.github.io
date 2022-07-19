@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Omer Github Page</title>
     <link>https://omers.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Omer Github Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jul 2022 08:45:40 +0300</lastBuildDate><atom:link href="https://omers.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jul 2022 14:13:19 +0300</lastBuildDate><atom:link href="https://omers.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Home</title>
-      <link>https://omers.github.io/posts/home/</link>
-      <pubDate>Tue, 19 Jul 2022 08:45:40 +0300</pubDate>
+      <title>About</title>
+      <link>https://omers.github.io/about/</link>
+      <pubDate>Tue, 19 Jul 2022 14:28:28 +0300</pubDate>
       
-      <guid>https://omers.github.io/posts/home/</guid>
+      <guid>https://omers.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docs</title>
+      <link>https://omers.github.io/docs/</link>
+      <pubDate>Tue, 19 Jul 2022 14:14:40 +0300</pubDate>
+      
+      <guid>https://omers.github.io/docs/</guid>
       <description></description>
     </item>
     
