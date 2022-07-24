@@ -7,7 +7,7 @@ on:
   pull_request:
 
 jobs:
-  deploy:
+  BuildPages:
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
@@ -18,14 +18,13 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
-          # extended: true
-
-      - name: Build
+          
+      - name: Build Static Site
         run: hugo -D
 
-      - name: Deploy
+      - name: Deploy back to repo
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
-          github_token: ${{ secrets.PAGES_DEPLOY }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
