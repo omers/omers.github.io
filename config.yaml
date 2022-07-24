@@ -13,7 +13,7 @@ outputs:
     home:
         - HTML
         - RSS
-        - JSON # is necessary
+        - JSON
 
 minify:
   disableXML: false
@@ -21,10 +21,10 @@ minify:
 
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production
   title: Omers Blog
   description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio]
   author: Me
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -48,20 +48,13 @@ params:
   tocopen: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    disableHLJS: false # to disable highlight.js
 
   label:
     text: "Omers Page"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
-  # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
     title: Omers Page
@@ -77,12 +70,6 @@ params:
         url: search
       - name: Cheatsheet
         url: cheatsheet
-
-  # home-info mode
-  # homeInfoParams:
-  #   Title: "Hi there \U0001F44B"
-  #   Content: |
-  #     Welcome to my Blog
 
   socialIcons:
     - name: linkedin
@@ -100,12 +87,10 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/omers/omers.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
-  # for search
-  # https://fusejs.io/api/options.html
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
