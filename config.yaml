@@ -66,10 +66,14 @@ params:
     buttons:
       - name: Docs
         url: docs
-      - name: Search
-        url: search
       - name: Cheatsheet
         url: cheatsheet
+      - name: AI
+        url: docs/ai
+      - name: Monitoring
+        url: docs/monitoring
+      - name: Search
+        url: search
 
   socialIcons:
     - name: linkedin
@@ -100,7 +104,6 @@ params:
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
 
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
   highlight:
