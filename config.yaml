@@ -68,10 +68,6 @@ params:
         url: docs
       - name: Cheatsheet
         url: cheatsheet
-      - name: AI
-        url: docs/ai
-      - name: Monitoring
-        url: docs/monitoring
       - name: Search
         url: search
 
