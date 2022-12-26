@@ -51,20 +51,20 @@ params:
     disableHLJS: false # to disable highlight.js
 
   label:
-    text: "Omers Page"
+    text: "Omer Segev"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Omers Page
+    title: My documentation project
     subtitle: "DevOps"
     imageUrl: "tech.jpeg"
     imageWidth: 320
     imageHeight: 240
     imageTitle: Omer
     buttons:
-      - name: Docs
+      - name: Documents
         url: docs
       - name: Cheatsheet
         url: cheatsheet
@@ -79,7 +79,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "G-21XGG2919L"
 
   cover:
     hidden: true # hide everywhere but not in structured data

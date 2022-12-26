@@ -3,7 +3,6 @@ title: "Home Page"
 date: 2022-07-19T14:13:19+03:00
 draft: false
 author: "Omer Segev"
-# author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
 draft: false
