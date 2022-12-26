@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-6790092-4
+googleAnalytics: G-21XGG2919L
 outputs:
     home:
         - HTML
@@ -58,22 +58,22 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: My documentation project
-    subtitle: "DevOps"
+    subtitle: "Stuff that I do"
     imageUrl: "tech.jpeg"
     imageWidth: 320
     imageHeight: 240
     imageTitle: Omer
-    buttons:
-      - name: Documents
-        url: docs
-      - name: Cheatsheet
-        url: cheatsheet
-      - name: Search
-        url: search
+    # buttons:
+    #   - name: Documents
+    #     url: docs
+    #   - name: Cheatsheet
+    #     url: cheatsheet
+    #   - name: Search
+    #     url: search
 
   socialIcons:
     - name: linkedin
-      url: "https://linkedin.com"
+      url: "https://www.linkedin.com/in/omersegev/"
     - name: github
       url: "https://github.com/omers"
 
@@ -107,3 +107,25 @@ markup:
     codeFences: true
     lineNoStart: 1
     lineNos: false
+menu:
+    main:
+        - identifier: documentation
+          name: Documentation
+          url: /Docs/
+          weight: 10
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 20
+        - identifier: cheatsheet
+          name: Cheatsheets
+          url: /cheatsheet/
+          weight: 30
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 40
+        - identifier: about
+          name: About
+          url: /about/
+          weight: 50
