@@ -6,7 +6,6 @@ tags: [""]
 author: "Omer Segev"
 showToc: true
 TocOpen: false
-draft: false
 hidemeta: false
 comments: false
 description: ""

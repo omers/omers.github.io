@@ -1,17 +1,16 @@
 ---
-title: "N8n"
-date: 2022-07-26T14:37:48+03:00
-draft: true
-tags: [""]
+title: "Aws"
+date: 2022-12-26T08:45:15+02:00
+tags: ["aws","cloud","tutorials"]
 author: "Omer Segev"
 showToc: true
 TocOpen: false
+draft: false
 hidemeta: false
 comments: false
 description: ""
 disableHLJS: false
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
