@@ -1,7 +1,7 @@
 ---
 title: "Data Management"
-date: 2022-07-28T09:55:49+03:00
-draft: true
+date: 2022-12-26T09:55:49+03:00
+draft: false
 tags: [""]
 author: "Omer Segev"
 showToc: true
