@@ -26,6 +26,8 @@ DORA is the acronym for the DevOps Research and Assessment group: they’ve surv
 
 ![Dora addoption flow](/software-delivery-performance-relationships.png)
 
+![Dora KPIs](/dora-chart.png)
+
 
 ## The four key metrics we measure
 
@@ -33,6 +35,7 @@ DORA is the acronym for the DevOps Research and Assessment group: they’ve surv
 * Lead Time for Changes — The amount of time it takes a commit to get into production
 * Change Failure Rate — The percentage of deployments causing a failure in production
 * Time to Restore Service — How long it takes an organization to recover from a failure in production
+
 
 ## How do we understand the metrics?
 * Deployment Frequency - limiting amount of code going to * production at once (limited batch size)
