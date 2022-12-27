@@ -1,8 +1,7 @@
 ---
 title: "Cloudquery"
 date: 2022-07-26T16:37:30+03:00
-draft: true
-tags: [""]
+tags: ["monitoring", "cloudquery","observability"]
 author: "Omer Segev"
 showToc: true
 TocOpen: false

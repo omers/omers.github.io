@@ -1,9 +1,9 @@
 ---
-title: "Aws"
+title: "Amazon Web Services (AWS)"
 date: 2022-12-26T08:45:15+02:00
 tags: ["aws","cloud","tutorials"]
 author: "Omer Segev"
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false

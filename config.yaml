@@ -113,19 +113,20 @@ menu:
           name: Documentation
           url: /Docs/
           weight: 10
-        - identifier: tags
-          name: Tags
-          url: /tags/
-          weight: 20
         - identifier: cheatsheet
           name: Cheatsheets
           url: /cheatsheet/
-          weight: 30
+          weight: 20
         - identifier: search
           name: Search
           url: /search/
-          weight: 40
+          weight: 30
         - identifier: about
           name: About
           url: /about/
+          weight: 40
+        - identifier: tags
+          name: Tags
+          url: /tags/
           weight: 50
+          #parent: documentation

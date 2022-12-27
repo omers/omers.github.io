@@ -1,7 +1,7 @@
 ---
 title: "Best practices for advanced serverless developers"
 date: 2022-12-26T08:46:12+02:00
-tags: [""]
+tags: ["serverless", "aws", "lambda"]
 author: "Omer Segev"
 showToc: false
 TocOpen: false
