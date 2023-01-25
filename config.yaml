@@ -58,7 +58,8 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: My documentation project
-    subtitle: "Stuff that I do"
+    subtitle: |
+      For many years I have been working in the field of DevOps / Cloud / Infrastructure and I am dedicated to sharing my knowledge and experience with others through this blog. My goal is to provide valuable and informative content that will help our readers improve their skills and succeed in their DevOps and platforms endeavors.
     imageUrl: "tech.jpeg"
     imageWidth: 320
     imageHeight: 240
