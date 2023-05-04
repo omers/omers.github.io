@@ -22,5 +22,3 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 ---
-
-Welcome to the page that summraize many items that I ran into on a daily basis.

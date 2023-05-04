@@ -8,6 +8,19 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+
+languages:
+  he:
+    languagedirection: rtl
+    title: הבלוג של עומר
+    weight: 2
+  en:
+    params:
+      linkedin: https://linkedin.com/whoever
+    title: Omers Blog
+    weight: 1
+
+
 googleAnalytics: G-21XGG2919L
 outputs:
     home:
