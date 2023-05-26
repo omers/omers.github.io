@@ -10,10 +10,10 @@ buildExpired: false
 
 
 languages:
-  he:
-    languagedirection: rtl
-    title: הבלוג של עומר
-    weight: 2
+  # he:
+  #   languagedirection: rtl
+  #   title: הבלוג של עומר
+  #   weight: 2
   en:
     params:
       linkedin: https://linkedin.com/whoever
