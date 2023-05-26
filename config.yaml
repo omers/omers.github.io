@@ -23,10 +23,10 @@ languages:
 
 googleAnalytics: G-21XGG2919L
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 minify:
   disableXML: false
@@ -125,7 +125,7 @@ menu:
     main:
         - identifier: documentation
           name: Documentation
-          url: /Docs/
+          url: /docs/
           weight: 10
         - identifier: cheatsheet
           name: Cheatsheets
