@@ -1,5 +1,5 @@
 baseURL: "https://omers.github.io/"
-title: Omers Blog
+title: OpsWise
 paginate: 15
 theme: PaperMod
 
@@ -17,7 +17,7 @@ languages:
   en:
     params:
       linkedin: https://linkedin.com/whoever
-    title: Omers Blog
+    title: OpsWise
     weight: 1
 
 
@@ -64,13 +64,13 @@ params:
     disableHLJS: false # to disable highlight.js
 
   label:
-    text: "Omer Segev"
+    text: "OpsWise"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   profileMode:
     enabled: true # needs to be explicitly set
-    title: My documentation project
+    title: Wisdom for the DevOps Manager 
     subtitle: |
       For many years I have been working in the field of DevOps / Cloud / Infrastructure and I am dedicated to sharing my knowledge and experience with others through this blog. My goal is to provide valuable and informative content that will help our readers improve their skills and succeed in their DevOps and platforms endeavors.
     imageUrl: "tech.jpeg"
