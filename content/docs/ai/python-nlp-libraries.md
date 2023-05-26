@@ -1,7 +1,25 @@
 ---
 title: "Python Nlp Libraries"
 date: 2022-07-19T14:37:22+03:00
+author: "Omer Segev"
+showToc: true
+TocOpen: false
 draft: false
+hidemeta: false
+comments: false
+description: ""
+canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 ---
 
 Natural language processing (NLP) is a field that focuses on making natural human language usable by computer programs. NLTK, or Natural Language Toolkit, is a Python package that you can use for NLP.

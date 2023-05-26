@@ -1,10 +1,9 @@
 ---
 title: "YOLO — You only look once"
 date: 2022-07-23T08:47:06+03:00
-draft: true
+draft: false
 tags: ["AI", "Deep Learning"]
 author: "Omer Segev"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
