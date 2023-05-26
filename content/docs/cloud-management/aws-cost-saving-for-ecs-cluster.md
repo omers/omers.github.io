@@ -22,7 +22,7 @@ UseHugoToc: true
 
 ---
 
-# Cost Saving with AWS ECS and Fargate Spot Instances
+## Cost Saving with AWS ECS and Fargate Spot Instances
 
 Are you looking for ways to optimize your infrastructure costs while maintaining the scalability and reliability of your applications? AWS ECS (Elastic Container Service) with Fargate Spot instances might be the solution you're searching for. In this blog post, we will explore how you can leverage Fargate Spot instances to achieve significant cost savings without compromising on performance or availability.
 
