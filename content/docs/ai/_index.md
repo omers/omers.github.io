@@ -1,5 +1,5 @@
 ---
-title: "Ai"
+title: "AI"
 date: 2022-07-25T14:24:48+03:00
 draft: true
 tags: [""]

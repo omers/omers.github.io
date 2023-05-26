@@ -122,29 +122,25 @@ markup:
     lineNoStart: 1
     lineNos: false
 menu:
-    main:
-        - identifier: documentation
-          name: Documentation
-          url: /docs/
-          weight: 10
-        - identifier: cheatsheet
-          name: Cheatsheets
-          url: /cheatsheet/
-          weight: 20
-        - identifier: search
-          name: Search
-          url: /search/
-          weight: 30
-        - identifier: about
-          name: About
-          url: /about/
-          weight: 40
-        - identifier: tags
-          name: Tags
-          url: /tags/
-          weight: 50
-        - identifier: archive
-          name: Archive
-          url: /archives/
-          weight: 60
-          #parent: documentation
+  main:
+    - identifier: documentation
+      name: Documentation
+      url: /docs/
+      weight: 10
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 30
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 40
+    - identifier: archive
+      name: Archive
+      url: /archives/
+      weight: 50
+        #parent: documentation

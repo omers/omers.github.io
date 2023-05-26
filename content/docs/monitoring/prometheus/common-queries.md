@@ -4,7 +4,6 @@ date: 2022-07-23T09:15:49+03:00
 draft: false
 tags: ["prometheus", "monitoring"]
 author: "Omer Segev"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
