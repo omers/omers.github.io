@@ -67,12 +67,5 @@ Regularly monitor the progress of your planned work and make necessary adjustmen
 * Prioritization
 * Understand the dependencies across the teams
 
-| Name | Priority | Estimation|ROI| 
-|------|-----|---|---|
-| omer | pmer| - |
-
-
-
-
 ## Conclusion
 Planning a quarter for your DevOps team is a crucial step towards achieving your goals and optimizing operational efficiency. By following the steps outlined in this guide, you can establish clear objectives, foster collaboration, allocate resources effectively, and drive continuous improvement. Embrace adaptability, iterate on your processes, and leverage the power of DevOps principles to unlock the
